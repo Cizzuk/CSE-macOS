@@ -263,9 +263,12 @@ Customize your search engine in this app's settings</string>
                                     <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
                                 </textFieldCell>
                             </textField>
-                            <switch horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" baseWritingDirection="leftToRight" alignment="left" translatesAutoresizingMaskIntoConstraints="NO" id="GbI-MP-nG8">
+                            <switch horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" baseWritingDirection="leftToRight" alignment="left" state="on" translatesAutoresizingMaskIntoConstraints="NO" id="GbI-MP-nG8">
                                 <rect key="frame" x="314" y="70" width="42" height="25"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                <connections>
+                                    <action selector="avoidRLChange:" target="XfG-lQ-9wD" id="u2x-IB-mRw"/>
+                                </connections>
                             </switch>
                             <textField verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Mcb-UU-X4P">
                                 <rect key="frame" x="75" y="211" width="333" height="25"/>
@@ -303,6 +306,7 @@ Customize your search engine in this app's settings</string>
                         </subviews>
                     </view>
                     <connections>
+                        <outlet property="avoidRLSwitch" destination="GbI-MP-nG8" id="1Qi-Ge-1EP"/>
                         <outlet property="suffixText" destination="iKh-ew-zgg" id="Cj5-Iu-SFr"/>
                         <outlet property="topText" destination="Mcb-UU-X4P" id="A3u-Vs-P7q"/>
                     </connections>
