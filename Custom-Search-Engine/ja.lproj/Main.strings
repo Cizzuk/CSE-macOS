@@ -1,0 +1,120 @@
+
+/* Class = "NSMenuItem"; title = "Customize Search Engine"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Customize Search Engine";
+
+/* Class = "NSMenuItem"; title = "Quit Customize Search Engine"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Customize Search Engineを終了";
+
+/* Class = "NSMenuItem"; title = "About Customize Search Engine"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "Customize Search Engineについて";
+
+/* Class = "NSTextFieldCell"; title = "Top of URL"; ObjectID = "8KJ-p1-bC8"; */
+"8KJ-p1-bC8.title" = "URLの先頭";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "8WA-Ny-hxe"; */
+"8WA-Ny-hxe.title" = "編集";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "メインメニュー";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "ヘルプ";
+
+/* Class = "NSWindow"; title = "Customize Search Engine"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "Customize Search Engine";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "Iw2-A8-J2W"; */
+"Iw2-A8-J2W.title" = "編集";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "JVE-MF-Dlw"; */
+"JVE-MF-Dlw.title" = "拡大";
+
+/* Class = "NSTextFieldCell"; title = "Suffix of URL"; ObjectID = "KCL-Wd-lEy"; */
+"KCL-Wd-lEy.title" = "URLの後尾";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "すべてを表示";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "MaZ-cY-tBH"; */
+"MaZ-cY-tBH.title" = "削除";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Enter the Top of URL"; ObjectID = "Mcb-UU-X4P"; */
+"Mcb-UU-X4P.ibExternalAccessibilityDescription" = "URLの先頭を入力";
+
+/* Class = "NSMenuItem"; title = "Hide Customize Search Engine"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Customize Search Engineを非表示";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "UqB-vM-xHq"; */
+"UqB-vM-xHq.title" = "ペーストしてスタイルを合わせる";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "ほかを非表示";
+
+/* Class = "NSTextFieldCell"; title = "https://"; ObjectID = "X98-Gm-4R0"; */
+"X98-Gm-4R0.title" = "https://";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "XNE-W1-qH8"; */
+"XNE-W1-qH8.title" = "ペースト";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "YWf-78-8Jq"; */
+"YWf-78-8Jq.title" = "ウインドウ";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "ZIz-mH-eun"; */
+"ZIz-mH-eun.title" = "カット";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "Only URLs beginning with https are supported"; ObjectID = "bU4-0h-O9P"; */
+"bU4-0h-O9P.ibExternalAccessibilityHelp" = "httpsから始まるURLのみサポートしています。";
+
+/* Class = "NSTextFieldCell"; title = "Settings"; ObjectID = "dYA-AO-tkv"; */
+"dYA-AO-tkv.title" = "設定";
+
+/* Class = "NSTextFieldCell"; placeholderString = "&f=live"; ObjectID = "dyZ-aY-vUw"; */
+"dyZ-aY-vUw.placeholderString" = "&f=live";
+
+/* Class = "NSTextFieldCell"; title = "Please select DuckDcukGo as your search engine\n\nPlease allow DuckDcukGo in Customize Search Engine\n\nCustomize your search engine in this app's settings"; ObjectID = "iHn-Dh-7nk"; */
+"iHn-Dh-7nk.title" = "設定で検索エンジンをDuckDuckGoにしてください\n\n設定でCustomize Search EngineをDuckDcukGoで許可してください\n\nアプリの設定で検索エンジンをカスタマイズしてください";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "Enter the Suffix of URL"; ObjectID = "iKh-ew-zgg"; */
+"iKh-ew-zgg.ibExternalAccessibilityHelp" = "URLの後尾を入力";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "lvU-EX-AIo"; */
+"lvU-EX-AIo.title" = "取り消す";
+
+/* Class = "NSTextFieldCell"; title = "1.\n\n\n2.\n\n\n3."; ObjectID = "p5E-NI-9Ap"; */
+"p5E-NI-9Ap.title" = "1.\n\n\n2.\n\n\n3.";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "s2V-1C-BA4"; */
+"s2V-1C-BA4.title" = "コピー";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "sY2-0Y-E6I"; */
+"sY2-0Y-E6I.title" = "しまう";
+
+/* Class = "NSTextFieldCell"; title = "Customize Search Engine"; ObjectID = "stF-EY-rjG"; */
+"stF-EY-rjG.title" = "Customize Search Engine";
+
+/* Class = "NSMenu"; title = "Customize Search Engine"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Customize Search Engine";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "v6y-su-x55"; */
+"v6y-su-x55.title" = "すべてを手前に移動";
+
+/* Class = "NSTextFieldCell"; title = "Avoid redirect loop"; ObjectID = "wgy-wk-DSA"; */
+"wgy-wk-DSA.title" = "リダイレクトループを回避";
+
+/* Class = "NSTextFieldCell"; placeholderString = "twitter.com/search?q="; ObjectID = "wi2-Fu-pvu"; */
+"wi2-Fu-pvu.placeholderString" = "twitter.com/search?q=";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "ヘルプ";
+
+/* Class = "NSTextFieldCell"; title = "by tsg0o0"; ObjectID = "xIa-NR-07y"; */
+"xIa-NR-07y.title" = "by tsg0o0";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "xP4-Vn-roJ"; */
+"xP4-Vn-roJ.title" = "ウィンドウ";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "xz8-eX-0XA"; */
+"xz8-eX-0XA.title" = "やり直し";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "ybH-2R-fK8"; */
+"ybH-2R-fK8.title" = "すべてを選択";
