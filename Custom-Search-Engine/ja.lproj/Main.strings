@@ -1,7 +1,4 @@
 
-/* Class = "NSMenuItem"; title = "Customize Search Engine"; ObjectID = "1Xt-HY-uBw"; */
-"1Xt-HY-uBw.title" = "Customize Search Engine";
-
 /* Class = "NSMenuItem"; title = "Quit Customize Search Engine"; ObjectID = "4sb-4s-VLi"; */
 "4sb-4s-VLi.title" = "Customize Search Engineを終了";
 
@@ -68,9 +65,6 @@
 /* Class = "NSTextFieldCell"; title = "Settings"; ObjectID = "dYA-AO-tkv"; */
 "dYA-AO-tkv.title" = "設定";
 
-/* Class = "NSTextFieldCell"; placeholderString = "&f=live"; ObjectID = "dyZ-aY-vUw"; */
-"dyZ-aY-vUw.placeholderString" = "&f=live";
-
 /* Class = "NSTextFieldCell"; title = "Please select DuckDcukGo as your search engine\n\nPlease allow DuckDcukGo in Customize Search Engine\n\nCustomize your search engine in this app's settings"; ObjectID = "iHn-Dh-7nk"; */
 "iHn-Dh-7nk.title" = "設定で検索エンジンをDuckDuckGoにしてください\n\n設定でCustomize Search EngineをDuckDcukGoで許可してください\n\nアプリの設定で検索エンジンをカスタマイズしてください";
 
@@ -89,20 +83,11 @@
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "sY2-0Y-E6I"; */
 "sY2-0Y-E6I.title" = "しまう";
 
-/* Class = "NSTextFieldCell"; title = "Customize Search Engine"; ObjectID = "stF-EY-rjG"; */
-"stF-EY-rjG.title" = "Customize Search Engine";
-
-/* Class = "NSMenu"; title = "Customize Search Engine"; ObjectID = "uQy-DD-JDr"; */
-"uQy-DD-JDr.title" = "Customize Search Engine";
-
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "v6y-su-x55"; */
 "v6y-su-x55.title" = "すべてを手前に移動";
 
 /* Class = "NSTextFieldCell"; title = "Avoid redirect loop"; ObjectID = "wgy-wk-DSA"; */
 "wgy-wk-DSA.title" = "リダイレクトループを回避";
-
-/* Class = "NSTextFieldCell"; placeholderString = "twitter.com/search?q="; ObjectID = "wi2-Fu-pvu"; */
-"wi2-Fu-pvu.placeholderString" = "twitter.com/search?q=";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
 "wpr-3q-Mcd.title" = "ヘルプ";

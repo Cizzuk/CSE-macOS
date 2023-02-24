@@ -17,7 +17,7 @@ class ViewController: NSViewController, NSTextFieldDelegate{
     let userDefaults = UserDefaults(suiteName: "group.com.tsg0o0.Custom-Search-Engine")
     override func viewDidLoad() {
         super.viewDidLoad()
-        topText.stringValue = userDefaults!.string(forKey: "urltop") ?? "twitter.com/search?q="
+        topText.stringValue = userDefaults!.string(forKey: "urltop") ?? "https://twitter.com/search?q="
         suffixText.stringValue = userDefaults!.string(forKey: "urlsuffix") ?? "&f=live"
         avoidRL = userDefaults!.string(forKey: "avoidRL") ?? "1"
         if avoidRL == "0" {

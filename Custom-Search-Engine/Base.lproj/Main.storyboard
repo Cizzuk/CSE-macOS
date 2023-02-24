@@ -271,9 +271,9 @@ Customize your search engine in this app's settings</string>
                                 </connections>
                             </switch>
                             <textField verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Mcb-UU-X4P">
-                                <rect key="frame" x="75" y="211" width="333" height="25"/>
+                                <rect key="frame" x="23" y="211" width="385" height="25"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" sendsActionOnEndEditing="YES" borderStyle="border" placeholderString="twitter.com/search?q=" drawsBackground="YES" id="wi2-Fu-pvu">
+                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" sendsActionOnEndEditing="YES" borderStyle="border" placeholderString="https://twitter.com/search?q=" drawsBackground="YES" id="wi2-Fu-pvu">
                                     <font key="font" metaFont="system"/>
                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -283,16 +283,6 @@ Customize your search engine in this app's settings</string>
                                     <action selector="editInputTop:" target="XfG-lQ-9wD" id="nts-Wf-H4O"/>
                                     <outlet property="delegate" destination="XfG-lQ-9wD" id="laq-Ym-n6E"/>
                                 </connections>
-                            </textField>
-                            <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="bU4-0h-O9P">
-                                <rect key="frame" x="21" y="214" width="48" height="19"/>
-                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                <textFieldCell key="cell" lineBreakMode="clipping" alignment="left" title="https://" id="X98-Gm-4R0">
-                                    <font key="font" metaFont="system"/>
-                                    <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
-                                    <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
-                                </textFieldCell>
-                                <accessibility help="Only URLs beginning with https are supported"/>
                             </textField>
                             <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="NTb-5u-h6Y">
                                 <rect key="frame" x="21" y="245" width="389" height="28"/>

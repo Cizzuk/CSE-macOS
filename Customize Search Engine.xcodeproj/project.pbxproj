@@ -56,7 +56,6 @@
 		907532F52903E08800D586B9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		907532F82903E08800D586B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		907532FA2903E08A00D586B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		907532FC2903E08A00D586B9 /* Custom_Search_Engine.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Custom_Search_Engine.entitlements; sourceTree = "<group>"; };
 		907532FD2903E08A00D586B9 /* Custom-Search-Engine.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Custom-Search-Engine.entitlements"; sourceTree = "<group>"; };
 		907533062903E08A00D586B9 /* Custom_Search_EngineTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Custom_Search_EngineTests.swift; sourceTree = "<group>"; };
 		907533102903E08A00D586B9 /* Custom_Search_EngineUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Custom_Search_EngineUITests.swift; sourceTree = "<group>"; };
@@ -123,7 +122,6 @@
 				907532F52903E08800D586B9 /* ViewController.swift */,
 				907532F72903E08800D586B9 /* Main.storyboard */,
 				907532FA2903E08A00D586B9 /* Assets.xcassets */,
-				907532FC2903E08A00D586B9 /* Custom_Search_Engine.entitlements */,
 				907532FD2903E08A00D586B9 /* Custom-Search-Engine.entitlements */,
 				90E63A77295DA2D0008CFB0B /* Icon.png */,
 			);
