@@ -12,7 +12,7 @@ let SFExtensionMessageKey = "message"
 
 class SafariWebExtensionHandler: NSObject, NSExtensionRequestHandling {
 
-    let userDefaults = UserDefaults(suiteName: "group.com.tsg0o0.Custom-Search-Engine")
+    let userDefaults = UserDefaults(suiteName: "group.com.tsg0o0.cse")
     
     func beginRequest(with context: NSExtensionContext) {
         let body: Dictionary<String, String> = ["type": "native", "top": userDefaults!.string(forKey: "urltop") ?? "https://twitter.com/search?q=", "suffix": userDefaults!.string(forKey: "urlsuffix") ?? "&f=live", "avoidRL": userDefaults!.string(forKey: "avoidRL") ?? "1"]

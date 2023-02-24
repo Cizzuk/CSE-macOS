@@ -14,7 +14,7 @@ class ViewController: NSViewController, NSTextFieldDelegate{
     @IBOutlet weak var avoidRLSwitch: NSSwitch!
     var avoidRL = "1"
     
-    let userDefaults = UserDefaults(suiteName: "group.com.tsg0o0.Custom-Search-Engine")
+    let userDefaults = UserDefaults(suiteName: "group.com.tsg0o0.cse")
     override func viewDidLoad() {
         super.viewDidLoad()
         topText.stringValue = userDefaults!.string(forKey: "urltop") ?? "https://twitter.com/search?q="
