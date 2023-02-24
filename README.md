@@ -8,7 +8,7 @@ Safari Extensions
 
 ### App Store
 
-[Download on the App Store](https://apps.apple.com/app/customize-search-engine/id1636254806)
+[Download on the App Store](https://apps.apple.com/app/customize-search-engine/id6445840140)
 
 ### Download .zip
 
