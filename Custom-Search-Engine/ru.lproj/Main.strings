@@ -1,0 +1,21 @@
+
+/* Class = "NSTextFieldCell"; title = "Top of URL"; ObjectID = "8KJ-p1-bC8"; */
+"8KJ-p1-bC8.title" = "Верхняя часть URL";
+
+/* Class = "NSTextFieldCell"; title = "Suffix of URL"; ObjectID = "KCL-Wd-lEy"; */
+"KCL-Wd-lEy.title" = "Суффикс URL";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Enter the Top of URL"; ObjectID = "Mcb-UU-X4P"; */
+"Mcb-UU-X4P.ibExternalAccessibilityDescription" = "Введите верхнюю часть URL";
+
+/* Class = "NSTextFieldCell"; title = "Settings"; ObjectID = "dYA-AO-tkv"; */
+"dYA-AO-tkv.title" = "Настройки";
+
+/* Class = "NSTextFieldCell"; title = "Please select DuckDcukGo as your search engine\n\nPlease allow DuckDcukGo in Customize Search Engine\n\nCustomize your search engine in this app's settings"; ObjectID = "iHn-Dh-7nk"; */
+"iHn-Dh-7nk.title" = "Пожалуйста, выберите DuckDcukGo в качестве поисковой системы\n\nРазрешите DuckDcukGo в Настроить поисковую систему\n\nНастройте поисковую систему в настройках этого приложения";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "Enter the Suffix of URL"; ObjectID = "iKh-ew-zgg"; */
+"iKh-ew-zgg.ibExternalAccessibilityHelp" = "Введите суффикс URL";
+
+/* Class = "NSTextFieldCell"; title = "Avoid redirect loop"; ObjectID = "wgy-wk-DSA"; */
+"wgy-wk-DSA.title" = "Избегайте циклов перенаправления";

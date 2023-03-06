@@ -1,0 +1,21 @@
+
+/* Class = "NSTextFieldCell"; title = "Top of URL"; ObjectID = "8KJ-p1-bC8"; */
+"8KJ-p1-bC8.title" = "URL的顶部";
+
+/* Class = "NSTextFieldCell"; title = "Suffix of URL"; ObjectID = "KCL-Wd-lEy"; */
+"KCL-Wd-lEy.title" = "URL的后缀";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Enter the Top of URL"; ObjectID = "Mcb-UU-X4P"; */
+"Mcb-UU-X4P.ibExternalAccessibilityDescription" = "输入URL的顶部";
+
+/* Class = "NSTextFieldCell"; title = "Settings"; ObjectID = "dYA-AO-tkv"; */
+"dYA-AO-tkv.title" = "设置";
+
+/* Class = "NSTextFieldCell"; title = "Please select DuckDcukGo as your search engine\n\nPlease allow DuckDcukGo in Customize Search Engine\n\nCustomize your search engine in this app's settings"; ObjectID = "iHn-Dh-7nk"; */
+"iHn-Dh-7nk.title" = "请选择DuckDcukGo作为您的搜索引擎\n\n请在自定义搜索引擎中允许DuckDcukGo\n\n在这个应用程序的设置中自定义您的搜索引擎";
+
+/* Class = "NSTextField"; ibExternalAccessibilityHelp = "Enter the Suffix of URL"; ObjectID = "iKh-ew-zgg"; */
+"iKh-ew-zgg.ibExternalAccessibilityHelp" = "输入URL的后缀";
+
+/* Class = "NSTextFieldCell"; title = "Avoid redirect loop"; ObjectID = "wgy-wk-DSA"; */
+"wgy-wk-DSA.title" = "避免重定向循环";

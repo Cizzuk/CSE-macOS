@@ -17,9 +17,6 @@
 /* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
 "F2S-fz-NVQ.title" = "ヘルプ";
 
-/* Class = "NSWindow"; title = "Customize Search Engine"; ObjectID = "IQv-IB-iLA"; */
-"IQv-IB-iLA.title" = "Customize Search Engine";
-
 /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "Iw2-A8-J2W"; */
 "Iw2-A8-J2W.title" = "編集";
 
@@ -47,9 +44,6 @@
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
 "Vdr-fp-XzO.title" = "ほかを非表示";
 
-/* Class = "NSTextFieldCell"; title = "https://"; ObjectID = "X98-Gm-4R0"; */
-"X98-Gm-4R0.title" = "https://";
-
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "XNE-W1-qH8"; */
 "XNE-W1-qH8.title" = "ペースト";
 
@@ -58,9 +52,6 @@
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "ZIz-mH-eun"; */
 "ZIz-mH-eun.title" = "カット";
-
-/* Class = "NSTextField"; ibExternalAccessibilityHelp = "Only URLs beginning with https are supported"; ObjectID = "bU4-0h-O9P"; */
-"bU4-0h-O9P.ibExternalAccessibilityHelp" = "httpsから始まるURLのみサポートしています。";
 
 /* Class = "NSTextFieldCell"; title = "Settings"; ObjectID = "dYA-AO-tkv"; */
 "dYA-AO-tkv.title" = "設定";
@@ -73,9 +64,6 @@
 
 /* Class = "NSMenuItem"; title = "Undo"; ObjectID = "lvU-EX-AIo"; */
 "lvU-EX-AIo.title" = "取り消す";
-
-/* Class = "NSTextFieldCell"; title = "1.\n\n\n2.\n\n\n3."; ObjectID = "p5E-NI-9Ap"; */
-"p5E-NI-9Ap.title" = "1.\n\n\n2.\n\n\n3.";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "s2V-1C-BA4"; */
 "s2V-1C-BA4.title" = "コピー";
@@ -91,9 +79,6 @@
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
 "wpr-3q-Mcd.title" = "ヘルプ";
-
-/* Class = "NSTextFieldCell"; title = "by tsg0o0"; ObjectID = "xIa-NR-07y"; */
-"xIa-NR-07y.title" = "by tsg0o0";
 
 /* Class = "NSMenuItem"; title = "Window"; ObjectID = "xP4-Vn-roJ"; */
 "xP4-Vn-roJ.title" = "ウィンドウ";
