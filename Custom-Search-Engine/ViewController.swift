@@ -17,8 +17,8 @@ class ViewController: NSViewController, NSTextFieldDelegate{
     let userDefaults = UserDefaults(suiteName: "group.com.tsg0o0.cse")
     override func viewDidLoad() {
         super.viewDidLoad()
-        topText.stringValue = userDefaults!.string(forKey: "urltop") ?? "https://twitter.com/search?q="
-        suffixText.stringValue = userDefaults!.string(forKey: "urlsuffix") ?? "&f=live"
+        topText.stringValue = userDefaults!.string(forKey: "urltop") ?? "https://archive.org/search?query="
+        suffixText.stringValue = userDefaults!.string(forKey: "urlsuffix") ?? ""
         avoidRL = userDefaults!.string(forKey: "avoidRL") ?? "1"
         if avoidRL == "0" {
             avoidRLSwitch.state = NSControl.StateValue.off
