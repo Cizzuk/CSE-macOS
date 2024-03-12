@@ -1,8 +1,8 @@
 //
 //  Custom_Search_EngineUITests.swift
-//  Custom-Search-EngineUITests
+//  Customize Search Engine Tests
 //
-//  Created by tsg0o0 on 2022/10/22.
+//  Created by Cizzuk on 2022/10/22.
 //
 
 import XCTest
