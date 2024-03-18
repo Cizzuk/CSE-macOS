@@ -20,7 +20,6 @@
 		907533292903E08A00D586B9 /* content.js in Resources */ = {isa = PBXBuildFile; fileRef = 907533282903E08A00D586B9 /* content.js */; };
 		9075332B2903E08A00D586B9 /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = 9075332A2903E08A00D586B9 /* popup.html */; };
 		9075332D2903E08A00D586B9 /* popup.css in Resources */ = {isa = PBXBuildFile; fileRef = 9075332C2903E08A00D586B9 /* popup.css */; };
-		9075332F2903E08A00D586B9 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = 9075332E2903E08A00D586B9 /* popup.js */; };
 		90E63A78295DA2D0008CFB0B /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 90E63A77295DA2D0008CFB0B /* Icon.png */; };
 /* End PBXBuildFile section */
 
@@ -68,7 +67,6 @@
 		907533282903E08A00D586B9 /* content.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = content.js; sourceTree = "<group>"; };
 		9075332A2903E08A00D586B9 /* popup.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = popup.html; sourceTree = "<group>"; };
 		9075332C2903E08A00D586B9 /* popup.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = popup.css; sourceTree = "<group>"; };
-		9075332E2903E08A00D586B9 /* popup.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = popup.js; sourceTree = "<group>"; };
 		907533302903E08A00D586B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		907533312903E08A00D586B9 /* Custom_Search_Engine_Extension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Custom_Search_Engine_Extension.entitlements; sourceTree = "<group>"; };
 		907533482903E79000D586B9 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -171,7 +169,6 @@
 				907533282903E08A00D586B9 /* content.js */,
 				9075332A2903E08A00D586B9 /* popup.html */,
 				9075332C2903E08A00D586B9 /* popup.css */,
-				9075332E2903E08A00D586B9 /* popup.js */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -281,7 +278,6 @@
 				907533252903E08A00D586B9 /* manifest.json in Resources */,
 				907533212903E08A00D586B9 /* _locales in Resources */,
 				907533292903E08A00D586B9 /* content.js in Resources */,
-				9075332F2903E08A00D586B9 /* popup.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
