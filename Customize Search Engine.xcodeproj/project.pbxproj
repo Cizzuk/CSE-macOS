@@ -20,6 +20,8 @@
 		907533292903E08A00D586B9 /* content.js in Resources */ = {isa = PBXBuildFile; fileRef = 907533282903E08A00D586B9 /* content.js */; };
 		9075332B2903E08A00D586B9 /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = 9075332A2903E08A00D586B9 /* popup.html */; };
 		9075332D2903E08A00D586B9 /* popup.css in Resources */ = {isa = PBXBuildFile; fileRef = 9075332C2903E08A00D586B9 /* popup.css */; };
+		90BC1A332BAB24A300961F3B /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 90BC1A322BAB24A300961F3B /* Localizable.xcstrings */; };
+		90BC1A352BAB24AF00961F3B /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90BC1A342BAB24AF00961F3B /* SettingView.swift */; };
 		90E63A78295DA2D0008CFB0B /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 90E63A77295DA2D0008CFB0B /* Icon.png */; };
 /* End PBXBuildFile section */
 
@@ -70,6 +72,8 @@
 		907533302903E08A00D586B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		907533312903E08A00D586B9 /* Custom_Search_Engine_Extension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Custom_Search_Engine_Extension.entitlements; sourceTree = "<group>"; };
 		907533482903E79000D586B9 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		90BC1A322BAB24A300961F3B /* Localizable.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		90BC1A342BAB24AF00961F3B /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 		90D8FBDF29B5FF4500851BEB /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Main.strings; sourceTree = "<group>"; };
 		90D8FBE029B5FF4D00851BEB /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Main.strings; sourceTree = "<group>"; };
 		90D8FBE129B5FF5900851BEB /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Main.strings; sourceTree = "<group>"; };
@@ -100,6 +104,7 @@
 		907532DD2903E08800D586B9 = {
 			isa = PBXGroup;
 			children = (
+				90BC1A322BAB24A300961F3B /* Localizable.xcstrings */,
 				907532E82903E08800D586B9 /* Custom-Search-Engine */,
 				907533052903E08A00D586B9 /* Custom-Search-EngineTests */,
 				9075330F2903E08A00D586B9 /* Custom-Search-EngineUITests */,
@@ -123,6 +128,7 @@
 				907533482903E79000D586B9 /* Info.plist */,
 				907532E92903E08800D586B9 /* AppDelegate.swift */,
 				907532F52903E08800D586B9 /* ViewController.swift */,
+				90BC1A342BAB24AF00961F3B /* SettingView.swift */,
 				907532F72903E08800D586B9 /* Main.storyboard */,
 				907532FA2903E08A00D586B9 /* Assets.xcassets */,
 				907532FD2903E08A00D586B9 /* Custom-Search-Engine.entitlements */,
@@ -263,6 +269,7 @@
 			files = (
 				90E63A78295DA2D0008CFB0B /* Icon.png in Resources */,
 				907532F92903E08800D586B9 /* Main.storyboard in Resources */,
+				90BC1A332BAB24A300961F3B /* Localizable.xcstrings in Resources */,
 				907532FB2903E08A00D586B9 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -288,6 +295,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				90BC1A352BAB24AF00961F3B /* SettingView.swift in Sources */,
 				907532F62903E08800D586B9 /* ViewController.swift in Sources */,
 				907532EA2903E08800D586B9 /* AppDelegate.swift in Sources */,
 			);
@@ -541,7 +549,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				MARKETING_VERSION = 2.1;
 				OTHER_LDFLAGS = (
 					"-framework",
@@ -582,7 +590,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				MARKETING_VERSION = 2.1;
 				OTHER_LDFLAGS = (
 					"-framework",
