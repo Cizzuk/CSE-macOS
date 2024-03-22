@@ -1,3 +1,8 @@
+> [!CAUTION]
+> **This repository has been integrated into the iOS version**
+> 
+> [CSE repository for iOS, macOS, and visionOS is here](https://github.com/tsg0o0/CSE)
+
 # Customize Search Engine for macOS
 
 This is an extension to customize Safari's search engine.
